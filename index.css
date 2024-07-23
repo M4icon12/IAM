@@ -1,0 +1,17 @@
+.contene{
+    background-image: url(b11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card{
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.carouselExampleIndicators{
+    margin-left: 200;
+    margin-top: 20;
+}
+ 
